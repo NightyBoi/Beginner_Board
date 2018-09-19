@@ -1,5 +1,5 @@
 # Beginner_Board
-Beginner Board for Elektropioneer newcomers.
+Beginner Board for @Elektropioneer newcomers.
 
 ## Things you need:
 
